@@ -8,9 +8,11 @@ bug.ic
 bug.out
 pod.t
 t/builder.out
+t/builder_nobfs.out
 t/builder.pl
 t/builder.t
 t/ic.t
 t/pod.t
 test.ic
 test.out
+META.yml                                 Module meta-data (added by MakeMaker)
