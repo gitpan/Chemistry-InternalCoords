@@ -1,7 +1,7 @@
 package Chemistry::InternalCoords;
 
-$VERSION = '0.15';
-# $Id: InternalCoords.pm,v 1.3 2004/07/02 16:25:28 itubert Exp $
+$VERSION = '0.16';
+# $Id: InternalCoords.pm,v 1.4 2004/07/03 19:50:09 itubert Exp $
 
 use 5.006;
 use strict;
@@ -251,7 +251,7 @@ sub stringify {
 
 =head1 VERSION
 
-0.15
+0.16
 
 =head1 SEE ALSO
 
